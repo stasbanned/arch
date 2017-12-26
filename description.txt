@@ -1,0 +1,7 @@
+accordance of morze code to our code in storage:
+. 0
+- 1
+'1 dot len pause' - {nothing between 0 and 1} (pause between elements of one letter)
+'3 dot len pause' - 2 (pause between letters)
+'7 dot len pause' - 3 (pause between words)
+'7+ dot len pause' - 4 (end of message)

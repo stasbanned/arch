@@ -1,0 +1,206 @@
+[
+	{
+  "Symbol_code": "01",
+  "Symbol": "а"
+	},
+	{
+  "Symbol_code": "1000",
+  "Symbol": "б"
+	},
+	{
+  "Symbol_code": "011",
+  "Symbol": "в"
+	},
+	{
+  "Symbol_code": "110",
+  "Symbol": "г"
+	},
+	{
+  "Symbol_code": "100",
+  "Symbol": "д"
+	},
+	{
+  "Symbol_code": "0",
+  "Symbol": "е"
+	},
+	{
+  "Symbol_code": "0001",
+  "Symbol": "ж"
+	},
+	{
+  "Symbol_code": "1100",
+  "Symbol": "з"
+	},
+	{
+  "Symbol_code": "00",
+  "Symbol": "и"
+	},
+	{
+  "Symbol_code": "0111",
+  "Symbol": "й"
+	},
+	{
+  "Symbol_code": "101",
+  "Symbol": "к"
+	},
+	{
+  "Symbol_code": "0100",
+  "Symbol": "л"
+	},
+	{
+  "Symbol_code": "11",
+  "Symbol": "м"
+	},
+	{
+  "Symbol_code": "10",
+  "Symbol": "н"
+	},
+	{
+  "Symbol_code": "111",
+  "Symbol": "о"
+	},
+	{
+  "Symbol_code": "0110",
+  "Symbol": "п"
+	},
+	{
+  "Symbol_code": "010",
+  "Symbol": "р"
+	},
+	{
+  "Symbol_code": "000",
+  "Symbol": "с"
+	},
+	{
+  "Symbol_code": "1",
+  "Symbol": "т"
+	},
+	{
+  "Symbol_code": "001",
+  "Symbol": "у"
+	},
+	{
+  "Symbol_code": "0010",
+  "Symbol": "ф"
+	},
+	{
+  "Symbol_code": "0000",
+  "Symbol": "х"
+	},
+	{
+  "Symbol_code": "1010",
+  "Symbol": "ц"
+	},
+	{
+  "Symbol_code": "1110",
+  "Symbol": "ч"
+	},
+	{
+  "Symbol_code": "1111",
+  "Symbol": "ш"
+	},
+	{
+  "Symbol_code": "1101",
+  "Symbol": "щ"
+	},
+	{
+  "Symbol_code": "1001",
+  "Symbol": "ь\ъ"
+	},
+	{
+  "Symbol_code": "1011",
+  "Symbol": "ы"
+	},
+	{
+  "Symbol_code": "00100",
+  "Symbol": "э"
+	},
+	{
+  "Symbol_code": "0011",
+  "Symbol": "ю"
+	},
+	{
+  "Symbol_code": "0101",
+  "Symbol": "я"
+	},
+	{
+  "Symbol_code": "01111",
+  "Symbol": "1"
+	},
+	{
+  "Symbol_code": "00111",
+  "Symbol": "2"
+	},
+	{
+  "Symbol_code": "00011",
+  "Symbol": "3"
+	},
+	{
+  "Symbol_code": "00001",
+  "Symbol": "4"
+	},
+	{
+  "Symbol_code": "00000",
+  "Symbol": "5"
+	},
+	{
+  "Symbol_code": "10000",
+  "Symbol": "6"
+	},
+	{
+  "Symbol_code": "11000",
+  "Symbol": "7"
+	},
+	{
+  "Symbol_code": "11100",
+  "Symbol": "8"
+	},
+	{
+  "Symbol_code": "11110",
+  "Symbol": "9"
+	},
+	{
+  "Symbol_code": "11111",
+  "Symbol": "0"
+	},
+	{
+  "Symbol_code": "00000",
+  "Symbol": "."
+	},
+	{
+  "Symbol_code": "010101",
+  "Symbol": ","
+	},
+	{
+  "Symbol_code": "101010",
+  "Symbol": ";"
+	},
+	{
+  "Symbol_code": "111000",
+  "Symbol": ":"
+	},
+	{
+  "Symbol_code": "001100",
+  "Symbol": "?"
+	},
+	{
+  "Symbol_code": "110011",
+  "Symbol": "!"
+	},
+	{
+  "Symbol_code": "100001",
+  "Symbol": "-"
+	},
+	{
+  "Symbol_code": "010010",
+  "Symbol": "«"
+	},
+	{
+  "Symbol_code": "101101",
+  "Symbol": "("
+	},
+	{
+  "Symbol_code": "10010",
+  "Symbol": "/"
+	}
+]
